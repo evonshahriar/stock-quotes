@@ -29,7 +29,7 @@
   - [x] Applied interactive plot on every package
 
 
-Upcoming:
+__Upcoming:__
   - [ ] Comprehensive examples
   - [ ] Fundamental and technical analysis
   - [ ] Implementing different strategies
