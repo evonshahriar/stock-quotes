@@ -1,5 +1,8 @@
 ![stock-quotes](Reference/s.png)
 
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/evonshahriar/stock-quotes)
+![GitHub](https://img.shields.io/github/license/evonshahriar/stock-quotes)
+
 ```stock-quotes``` is a collection of open-source APIs and packages to access live and historical stock price data. Hopefully, this repo will save some of your time by presenting the best and easiest data retrieval packages in one place.
   - Yahoo Finance
     - yahoo_fin
