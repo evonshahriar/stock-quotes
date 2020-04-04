@@ -34,12 +34,12 @@ Upcoming:
 
 Goals for this project |
 ------------ |
-1. To help developers directly get into the analysis|
-2. To save time for others by providing all the working APIs and packages in one place|
-3. To list all the available modules|
-4. To save from getting into bug and errors by providing working code|
-5. To show how to apply different indicators on price data|
-6. To show how to apply famous strategies on live data|
+1. To help developers directly get into the analysis.
+2. To save time for others by providing all the working APIs and packages in one place.
+3. To list all the available modules.
+4. To save from getting into bug and errors by providing working code.
+5. To show how to apply different indicators on price data.
+6. To show how to apply famous strategies on live data.
 
 
 You can contribute to ```stock-quotes``` by suggesting / adding / implementing some more working APIs into this repository.
